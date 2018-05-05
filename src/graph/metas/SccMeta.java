@@ -5,6 +5,9 @@ import graph.Node;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * SCC(Strongly Connected Component) data structure
+ */
 public class SccMeta {
     private int sccCount;
     private List<List<Node>> sccList;
