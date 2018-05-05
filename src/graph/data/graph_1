@@ -1,0 +1,11 @@
+# A directed graph
+# An edge each line described by start>end
+# A 'EOF' indict the end of input
+a>b
+a>d
+b>c
+b>e
+c>a
+c>f
+d>c
+e>f
